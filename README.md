@@ -31,6 +31,9 @@ To transform raw EV data into meaningful insights for better business decision-m
 <br>
 <img src="https://github.com/khushbuhu/EV-car-market-analysis/blob/683de29b33a05cb16937c96b58296c8180f9feb3/numerical%20data.png">
 <br>
+## 📂 Dataset (CSV)
+
+[Download CSV File](https://github.com/khushbuhu/EV-car-market-analysis/blob/3f810d2e098ab22aaddac033234a9d14064e83b4/Ev%20data%20set.csv)
 
 # 📌 Conclusion
 This project demonstrates how data visualization can help uncover insights and support decision-making in the EV industry.
